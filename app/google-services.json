@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879329943190",
+    "project_id": "cellophile-login",
+    "storage_bucket": "cellophile-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879329943190:android:2166a19c9d1e61cb846cb7",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879329943190-v158p15eqlipvb11odophe250es5qahs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMnqacQf2luS2Ts11LGLUSbhEOWd-t5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879329943190-v158p15eqlipvb11odophe250es5qahs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
